@@ -9,9 +9,9 @@ This document outlines the process of creating and deleting a Pluggable Database
 ## Overview of the Task
 This task demonstrates the fundamental operations for working with pluggable databases, including:
 
-### Creating a Pluggable Database (PDB): A new PDB named plsql_class2024db was created using SQL commands.
-## Managing the PDB: This includes switching to the newly created PDB and checking its status using SQL queries.
-## Deleting the PDB: A temporary PDB named ga_to_delete_pdb was created, then deleted after being unplugged, ensuring proper removal from the container database.
+#### Creating a Pluggable Database (PDB): A new PDB named plsql_class2024db was created using SQL commands.
+#### Managing the PDB: This includes switching to the newly created PDB and checking its status using SQL queries.
+#### Deleting the PDB: A temporary PDB named ga_to_delete_pdb was created, then deleted after being unplugged, ensuring proper removal from the container database.
 
 ## Oracle Database Enterprise Manager Configuration
 ---------------------------------------------------------------
